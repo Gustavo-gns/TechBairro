@@ -1,4 +1,4 @@
-TechBairro 3.3.1
+TechBairro 3.3.2
 
 Requisitos
     - Python 3.12 (testado com Python 3.12.0 no Visual Studio Code)
@@ -6,8 +6,8 @@ Requisitos
     - No Linux pode ser preciso instalar o Tkinter: sudo apt install python 3-tk
 
 Como executar
-    1. Extraia o arquivo TechBairro-3.3.1.zip
-    2. Abra um terminal dentro da pasta TechBairro-3.3.1.
+    1. Extraia o arquivo TechBairro-3.3.2.zip
+    2. Abra um terminal dentro da pasta TechBairro-3.3.2.
     3. Execute: python main.py
 
 Dados

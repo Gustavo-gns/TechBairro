@@ -1,9 +1,16 @@
 # Changelog da TechBairro
 
+## v3.3.2 (Aula 24)
+
+### Adicionado
+- Versionamento do código com o Git.
+
+---
+
 ## v3.3.1 (aula 21)
 
 ### Alterado
-- Partes do sistema foram divididas em módulos, para facilitar futuras manutenções
+- Partes do sistema foram divididas em módulos, para facilitar futuras manutenções.
 
 ---
 
@@ -28,9 +35,9 @@
 ## v3.1.1 (Aula 18)
 
 ### Adicionado
-- Script scripts/gerar_pacote.py, que compacta o projeto em um arquivo .zip
-- Arquivo COMO_EXECUTAR.txt, com as instruções de como rodar o projeto
-- Separar o arquivo utils.py na sua própria pasta
+- Script scripts/gerar_pacote.py, que compacta o projeto em um arquivo zip.
+- Arquivo COMO_EXECUTAR.txt, com as instruções de como rodar o projeto.
+- Separar o arquivo utils.py na sua própria pasta.
 
 ---
 

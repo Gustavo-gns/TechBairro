@@ -10,7 +10,7 @@ from tkinter import messagebox
 from system.database import ClientManager
 
 # Versão do sistema
-VERSION = '3.3.1'
+VERSION = '3.3.2'
 
 # __file__ é o caminho deste arquivo .py.
 # Assim o techbairro.db fica SEMPRE na mesma pasta do projeto,
