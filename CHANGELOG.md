@@ -1,5 +1,12 @@
 # Changelog da TechBairro
 
+## v3.3.3 (aula 25)
+
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
+
+---
+
 ## v3.3.2 (Aula 24)
 
 ### Adicionado
