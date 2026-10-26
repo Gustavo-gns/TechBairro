@@ -29,4 +29,16 @@
 
 ## Parte 6 — Autoavaliação
 
-A apresentação foi organizada para mostrar as principais funcionalidades da TechBairro dentro do tempo disponível. Eu mudaria a forma de explicar algumas etapas para deixar a demonstração ainda mais clara e rápida. O comentário mais útil dos colegas foi sobre explicar melhor a validação de dados durante a demonstração, popr conta que eu realmente não estava entendendo muito bem.
+Pergunta 1: Por que o arquivo `techbairro.db` não está no GitHub?
+
+O arquivo `techbairro.db` não deve ser enviado ao GitHub porque é um banco de dados local, que pode conter dados pessoais dos clientes, como nome, telefone, e-mail e endereço. Por segurança e privacidade, o banco é criado localmente quando a aplicação é executada.
+
+Pergunta 2: Qual caso de teste pegou um defeito de verdade? Qual era o defeito?
+
+Um exemplo foi o teste da Aula 16, que verificou o caminho do banco de dados. O defeito era que o arquivo `techbairro.db` podia ser criado em uma pasta diferente da pasta do projeto, dependendo de onde o programa era executado. A correção foi utilizar o caminho baseado no arquivo Python, garantindo que o banco fosse localizado na pasta correta.
+
+Pergunta 3: Se o voluntário da associação tiver só o link do repositório, como ele instala e executa a TechBairro?
+
+Ele deve instalar o Python, baixar ou clonar o repositório do GitHub, entrar na pasta do projeto e instalar as dependências usando `pip install -r requirements.txt`. Depois, deve executar o arquivo principal da aplicação com o Python. As instruções exatas e o nome do arquivo que inicia o programa devem estar no `README.md`.
+
+Autoavaliação: A apresentação foi organizada para mostrar as principais funcionalidades da TechBairro dentro do tempo disponível. Eu mudaria a forma de explicar algumas etapas para deixar a demonstração ainda mais clara e rápida. O comentário mais útil dos colegas foi sobre explicar melhor a validação de dados durante a demonstração, por conta que eu realmente não estava entendendo muito bem.
