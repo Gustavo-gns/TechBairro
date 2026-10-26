@@ -38,7 +38,7 @@ if resultado:
 
 
 # Pastas que NÃO entram no pacote
-OUT_FOLDER = ["__pycache__","dist"]
+OUT_FOLDER = ["__pycache__","dist","backup"]
 
 # Tipos de arquivo que NÃO entram no pacote
 OUT_EXTENSIONS = ['.pyc','.db'] # COMPLETE: dois tipos de arquivo
