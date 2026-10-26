@@ -4,6 +4,7 @@
 
 ### Adicionado
 - Código publicado no GitHub, com histórico de versões.
+- Registros de testes, manual de uso, README completo e novo script na pasta scripts que serve para fazer backup.
 
 ---
 
