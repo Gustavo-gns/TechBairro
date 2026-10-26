@@ -7,6 +7,9 @@
 # Banco de dados com os dados pessoais dos clientes (LGPD)
 *.db
 
+# Pasta com o backup do banco de dados
+backup/
+
 # Pasta que o Python gera sozinho ao importar os módulos
 *__pycache__/
 
